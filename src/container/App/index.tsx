@@ -1,8 +1,9 @@
-import React from 'react'
+import MainMenu from '../../components/MainMenu'
+import FamilyMember from '../FamilyMember'
 
 let App = () => {
   return (
-    <p>Hello World</p>
+    <MainMenu />
   )
 }
 

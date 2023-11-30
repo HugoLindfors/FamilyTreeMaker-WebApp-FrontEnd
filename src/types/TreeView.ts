@@ -1,1 +1,1 @@
-type TreeView = 'familiar' | 'ancestral' | 'desendential'
+type TreeView = 'family' | 'ancestors' | 'desendants'
