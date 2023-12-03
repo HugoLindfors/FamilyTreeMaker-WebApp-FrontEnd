@@ -1,11 +1,11 @@
 import React from 'react'
-import FamilyView from './FamilyView'
+import FamilyView from './Family'
 import Ancestors from './Ancestors'
 
 let FamilyMember = () => {
-  return <>
-    <Ancestors />
-  </>
+    return <>
+        <Ancestors />
+    </>
 }
 
 export default FamilyMember
