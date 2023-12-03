@@ -1,10 +1,10 @@
 let familyMembers: Array<FamilyMember> =
     [
         {
-            Id: "WmjJhKSbTxG8FnYBz7rAs3",
-            Gender: "Female",
-            FirstName: "Karaugh",
-            LastName: "Garnet"
+            Id: "qJZV6txF4PXNRk9sT7AmDK",
+            Gender: "Male",
+            FirstName: "Rodolph",
+            LastName: "Knowles"
         },
         {
             Id: "DrX4MKhvmUsTBxHy9gcJZe",
@@ -13,16 +13,10 @@ let familyMembers: Array<FamilyMember> =
             LastName: "Mason"
         },
         {
-            Id: "qJZV6txF4PXNRk9sT7AmDK",
+            Id: "ygu2Z3pmwHzWCb7Ls8hSEA",
             Gender: "Male",
-            FirstName: "Rodolph",
-            LastName: "Knowles"
-        },
-        {
-            Id: "D7RkwEy8ScX9dUq5aC6heQ",
-            Gender: "Female",
-            FirstName: "Hylda",
-            LastName: "Edison"
+            FirstName: "Selby",
+            LastName: "Keys"
         },
         {
             Id: "Ac2jZyQnR9h5dKWTX6U4bC",
@@ -37,34 +31,10 @@ let familyMembers: Array<FamilyMember> =
             LastName: "Lowry"
         },
         {
-            Id: "emVjSsGP8y6NBKbQFfqM7t",
+            Id: "D7RkwEy8ScX9dUq5aC6heQ",
             Gender: "Female",
-            FirstName: "Bettye",
-            LastName: "Pickle"
-        },
-        {
-            Id: "gydEuNRjLmUqTDZre8bJ3f",
-            Gender: "Female",
-            FirstName: "Tuesday",
-            LastName: "Hershey"
-        },
-        {
-            Id: "eFcLw6K8TgX7AN5GWJEdtj",
-            Gender: "Female",
-            FirstName: "Georgia",
-            LastName: "Bisset"
-        },
-        {
-            Id: "ygu2Z3pmwHzWCb7Ls8hSEA",
-            Gender: "Male",
-            FirstName: "Selby",
-            LastName: "Keys"
-        },
-        {
-            Id: "FAQXEeG8LqW5YzcjC6f4Jy",
-            Gender: "Female",
-            FirstName: "Shannah",
-            LastName: "Eldred"
+            FirstName: "Hylda",
+            LastName: "Edison"
         },
         {
             Id: "f2NwevX95MyaGhkuV64bFq",
@@ -73,16 +43,22 @@ let familyMembers: Array<FamilyMember> =
             LastName: "Spooner"
         },
         {
+            Id: "emVjSsGP8y6NBKbQFfqM7t",
+            Gender: "Female",
+            FirstName: "Bettye",
+            LastName: "Pickle"
+        },
+        {
             Id: "fUKgjHsx6m5auGPTXCdNn4",
             Gender: "Male",
             FirstName: "Madisyn",
             LastName: "Audley"
         },
         {
-            Id: "skwEc6TGp2fD9BRehL4tNn",
+            Id: "gydEuNRjLmUqTDZre8bJ3f",
             Gender: "Female",
-            FirstName: "Mariel",
-            LastName: "Rye"
+            FirstName: "Tuesday",
+            LastName: "Hershey"
         },
         {
             Id: "Srmfa5EGeL9c726jdJUPsC",
@@ -91,10 +67,22 @@ let familyMembers: Array<FamilyMember> =
             LastName: "Brigham"
         },
         {
+            Id: "eFcLw6K8TgX7AN5GWJEdtj",
+            Gender: "Female",
+            FirstName: "Georgia",
+            LastName: "Bisset"
+        },
+        {
             Id: "pfH2xrmvLVQUe5wcaYTkhu",
             Gender: "Male",
             FirstName: "Marvin",
             LastName: "Mortimer"
+        },
+        {
+            Id: "FAQXEeG8LqW5YzcjC6f4Jy",
+            Gender: "Female",
+            FirstName: "Shannah",
+            LastName: "Eldred"
         },
         {
             Id: "C8mPxKtVEDecwS4s97BbfT",
@@ -103,16 +91,10 @@ let familyMembers: Array<FamilyMember> =
             LastName: "Toller"
         },
         {
-            Id: "r8Cu3mR92AQEtSBcjqhzJM",
-            Gender: "Male",
-            FirstName: "Clayson",
-            LastName: "Peck"
-        },
-        {
-            Id: "WmjJhKSbTxG8FnYBz7rAs3",
+            Id: "skwEc6TGp2fD9BRehL4tNn",
             Gender: "Female",
-            FirstName: "Karaugh",
-            LastName: "Garnet"
+            FirstName: "Mariel",
+            LastName: "Rye"
         },
         {
             Id: "r8Cu3mR92AQEtSBcjqhzJM",
@@ -125,60 +107,6 @@ let familyMembers: Array<FamilyMember> =
             Gender: "Female",
             FirstName: "Karaugh",
             LastName: "Garnet"
-        },
-        {
-            Id: "r8Cu3mR92AQEtSBcjqhzJM",
-            Gender: "Male",
-            FirstName: "Clayson",
-            LastName: "Peck"
-        },
-        {
-            Id: "WmjJhKSbTxG8FnYBz7rAs3",
-            Gender: "Female",
-            FirstName: "Karaugh",
-            LastName: "Garnet"
-        },
-        {
-            Id: "r8Cu3mR92AQEtSBcjqhzJM",
-            Gender: "Male",
-            FirstName: "Clayson",
-            LastName: "Peck"
-        },
-        {
-            Id: "WmjJhKSbTxG8FnYBz7rAs3",
-            Gender: "Female",
-            FirstName: "Karaugh",
-            LastName: "Garnet"
-        },
-        {
-            Id: "r8Cu3mR92AQEtSBcjqhzJM",
-            Gender: "Male",
-            FirstName: "Clayson",
-            LastName: "Peck"
-        },
-        {
-            Id: "WmjJhKSbTxG8FnYBz7rAs3",
-            Gender: "Female",
-            FirstName: "Karaugh",
-            LastName: "Garnet"
-        },
-        {
-            Id: "r8Cu3mR92AQEtSBcjqhzJM",
-            Gender: "Male",
-            FirstName: "Clayson",
-            LastName: "Peck"
-        },
-        {
-            Id: "WmjJhKSbTxG8FnYBz7rAs3",
-            Gender: "Female",
-            FirstName: "Karaugh",
-            LastName: "Garnet"
-        },
-        {
-            Id: "r8Cu3mR92AQEtSBcjqhzJM",
-            Gender: "Male",
-            FirstName: "Clayson",
-            LastName: "Peck"
         },
         {
             Id: "gTC8myaVKbLkQNcDHu3x4h",
@@ -223,7 +151,11 @@ let Ancestors = () => {
                                             : (familyMember.Gender == "Female"
                                                 ? "gender-female"
                                                 : "text-muted")}`,
-                                }}>{familyMember.FirstName} {familyMember.LastName}</span>
+                                }}>
+                                    <div>{familyMember.FirstName} {familyMember.LastName}</div>
+                                    <div className="btn">Edit</div>
+                                    <div className="btn">Delete</div>
+                                </span>
                             </span>
                         )
                     }
