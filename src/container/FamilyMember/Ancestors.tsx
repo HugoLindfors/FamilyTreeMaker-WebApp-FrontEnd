@@ -160,7 +160,7 @@ const Ancestors = () => {
             }}>
               <div>
                 <img
-                  src={`/public/imgs/portraits/${id}.jpg`}
+                  src={`/imgs/portraits/${id}.jpg`}
                   alt='portrait'
                   className={`portrait ${gender}`}
                   width='90px'

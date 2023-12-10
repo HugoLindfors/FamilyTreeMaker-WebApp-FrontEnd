@@ -1,11 +1,18 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
+#root {
+  color: #333;
+}
+
+@media (prefers-color-scheme: dark) {
+  #root {
+    color: #ddd;
+    background-color: #222;
+  }
 }
 
 .img-male {
-    border: 1px blue solid;
+  border: 1px blue solid;
 }
 
 .img-female {
-    border: 1px hotpink solid;
+  border: 1px hotpink solid;
 }
