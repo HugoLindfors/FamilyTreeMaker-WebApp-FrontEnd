@@ -1,7 +1,7 @@
 import MainMenu from '../../components/MainMenu'
 import FamilyMember from '../FamilyMember'
 
-let App = () => {
+const App = () => {
     return <>
         <MainMenu />
         <FamilyMember />

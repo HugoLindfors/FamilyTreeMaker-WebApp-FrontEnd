@@ -2,7 +2,7 @@ import React from 'react'
 import FamilyView from './Family'
 import Ancestors from './Ancestors'
 
-let FamilyMember = () => {
+const FamilyMember = () => {
     return <>
         <Ancestors />
     </>
