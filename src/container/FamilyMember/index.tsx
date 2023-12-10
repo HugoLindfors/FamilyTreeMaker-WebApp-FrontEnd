@@ -3,9 +3,9 @@ import FamilyView from './Family'
 import Ancestors from './Ancestors'
 
 const FamilyMember = () => {
-    return <>
-        <Ancestors />
-    </>
+  return <>
+    <Ancestors />
+  </>
 }
 
 export default FamilyMember
