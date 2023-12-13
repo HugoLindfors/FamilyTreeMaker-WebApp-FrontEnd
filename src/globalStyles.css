@@ -1,18 +1,27 @@
 #root {
-  color: #333;
+    color: #333;
 }
 
 @media (prefers-color-scheme: dark) {
-  #root {
-    color: #ddd;
-    background-color: #222;
-  }
+    #root {
+        color: #ddd;
+        background-color: #222;
+    }
 }
 
 .img-male {
-  border: 1px blue solid;
+    border: 1px blue solid;
 }
 
 .img-female {
-  border: 1px hotpink solid;
+    border: 1px hotpink solid;
+}
+
+.family-member {
+    display: inline-grid;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    min-height: 100px;
+    justify-content: center;
+    align-content: center;
 }
